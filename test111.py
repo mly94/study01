@@ -5,3 +5,5 @@
 
 if __name__ == '__main__':
     print('hello git')
+    print('123')
+    print('bye')
